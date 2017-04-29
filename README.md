@@ -27,3 +27,4 @@ We ask that you give credit to Artsy if using this list in a public-facing forma
 ----
 ### Need a data set to play with? Check out [Artsy's Public API](http://developers.artsy.net/), where you can experiment with The Art Genome Project data applied to public domain artworks and artists.
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
