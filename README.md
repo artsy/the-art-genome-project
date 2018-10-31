@@ -16,7 +16,6 @@ While anyone may reference this list of categories and definitions for research 
 
 We ask that you give credit to Artsy if using this list in a public-facing format, and that you reach out to our team at **[genome@artsy.net](mailto:genome@artsymail.com)** to let us know about your project and how you'll be using it. You might consider this basic list a "pilot program" for possible future releases, and so your feedback is extremely important to us.
 
------
 # What you need to know about this controlled vocabulary
 1. **This is a dynamic controlled vocabulary that strives for constant improvement, and in pursuit of this goal, we re-define, add, rename, merge and eliminate categories often!**
 2. Genes describe both information like time period, object type, technique, materials, and the geographic location of the creator, and "subject cataloging" topics like subject matter, concepts, and historic to contemporary styles and movements.
@@ -24,7 +23,6 @@ We ask that you give credit to Artsy if using this list in a public-facing forma
 4. It includes categories that amalgamate others in order to match the terms that our site visitors use to describe artworks and artists; for example, Contemporary Portrait Painting may be seen as the intersection of "Contemporary," "Portrait," and "Painting," all also categories.
 5. _Please note that while we aim to define each and every gene fully, some do not yet have definitions, while others have only basic ones._
 
-----
 ### Need a data set to play with? Check out [Artsy's Public API](http://developers.artsy.net/), where you can experiment with The Art Genome Project data applied to public domain artworks and artists.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">The Art Genome Project Vocabulary</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://artsy.net" property="cc:attributionName" rel="cc:attributionURL">Art.sy, Inc. d/b/a Artsy</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
