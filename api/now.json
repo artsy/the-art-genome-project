@@ -1,0 +1,6 @@
+{
+  "public": true,
+  "version": 2,
+  "name": "art-genome-project",
+  "builds": [{ "src": "index.js", "use": "@now/node-server" }]
+}
