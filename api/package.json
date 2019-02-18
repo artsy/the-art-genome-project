@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-graphql-server": "https://github.com/orta/json-graphql-server/releases/download/orta_rel/json-graphql-server-2.1.3-2.tgz"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
